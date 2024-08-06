@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norman Sambo</h1>
-<h3 align="center">A passionate Computer Systems Engineer, Web/Software Developer</h3>
+<h3 align="center">A passionate Website Developer or Software Developer</h3>
 
 ![giphy](https://github.com/user-attachments/assets/8c9b170b-387a-4296-b801-55b992d1d0fd)
 
