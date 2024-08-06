@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norman Sambo</h1>
 <h3 align="center">A passionate Computer Systems Engineer & Software/web developer from South Africa 🇿🇦</h3>
 
-!https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp1MDU1ZzN1aGVjNDdtNjB5M3diZXltMWtuamFzNmdtNjI3c2pwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.webp
-
+![giphy](https://github.com/user-attachments/assets/8c9b170b-387a-4296-b801-55b992d1d0fd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=normansambo&label=Profile%20views&color=0e75b6&style=flat" alt="normansambo" /> </p>
 
@@ -12,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://normansambo.github.io/Normansambo.io/](https://normansambo.github.io/Normansambo.io/)
 
-- 💬 Ask me about **python, c++, html, css, javascript & php**
+- 💬 Ask me about **Python, C++, HTML, CSS, Javascript & php**
 
 - 📫 How to reach me **normansambo26@gmail.com**
 
@@ -20,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/realknwmvn?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/realknwmvn?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/nxrmvnza?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nxrmvnza?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/norman-sambo-5b671021a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/norman-sambo-5b671021a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/vocsoulamuzique.vocsoulamuzique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vocsoulamuzique.vocsoulamuzique" height="30" width="40" /></a>
 </p>
