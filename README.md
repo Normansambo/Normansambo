@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norman Sambo</h1>
-<h3 align="center">A passionate Computer Systems Engineer & Software/web developer from South Africa 🇿🇦</h3>
+<h3 align="center">A passionate Computer Systems Engineer | Software | Web Developer from South Africa 🇿🇦</h3>
 
 ![giphy](https://github.com/user-attachments/assets/8c9b170b-387a-4296-b801-55b992d1d0fd)
 
