@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Norman Sambo</h1>
 <h3 align="center">A passionate Computer Systems Engineer & Software/web developer from South Africa 🇿🇦</h3>
 
+![image](https://github.com/user-attachments/assets/d9afb93f-3837-47cd-9bd5-d9da4304a3eb)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=normansambo&label=Profile%20views&color=0e75b6&style=flat" alt="normansambo" /> </p>
 
 - I'm am currently working on [Survey Web Application](https://github.com/Normansambo/survey_app/tree/main)
