@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://www.kickresume.com/cv/Kb4e2a/](https://www.kickresume.com/cv/Kb4e2a/)
 
+![giphy (1)](https://github.com/user-attachments/assets/a778fcf8-8268-4f0f-bdf7-7cde12838af6)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/nxrmvnza?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nxrmvnza?t=gxzt2ecwg5ctjn_5yr0jnw&s=09" height="30" width="40" /></a>
