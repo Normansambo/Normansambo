@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norman Sambo</h1>
 <h3 align="center">A passionate Computer Systems Engineer & Software/web developer from South Africa 🇿🇦</h3>
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp1MDU1ZzN1aGVjNDdtNjB5M3diZXltMWtuamFzNmdtNjI3c2pwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.webp
+!https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp1MDU1ZzN1aGVjNDdtNjB5M3diZXltMWtuamFzNmdtNjI3c2pwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.webp
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=normansambo&label=Profile%20views&color=0e75b6&style=flat" alt="normansambo" /> </p>
